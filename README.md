@@ -11,8 +11,8 @@ The tremendous amount of information available on the Internet is an invaluable 
 ##### 2. Decipher data encoded in URLs.
 ##### 3. Used requests and Beautiful Soup for scraping and parsing data from the Web.
 ##### 4. Step through a web scraping pipeline from start to finish
-##### 5. Build a script that fetches job offers from the Web and displays relevant information in your console
-##### 6. After testing the code on my local machine deployed the code on Google cloud VM as I planned to scrape large amount of pages.
+##### 5. Build a script that fetches comments of users from the Web and displays relevant information in your console
+##### 6. After testing the code on my local machine I deployed the code on Google cloud VM as large amount of pages needs to scraped for this project.
 
 
 Working through this project gave me the knowledge of the process and tools you need to scrape any static website out there on the World Wide Web.
