@@ -1,4 +1,6 @@
 # Web_scraping
+![image](https://user-images.githubusercontent.com/91350558/208844794-1c0f2ff3-0a2a-4677-a839-a19eee318f85.png)
+
 #### Scrape the Google Play Store app and the Android Central forum for discussions on specific apps.
 
 Web scraping is the method of gathering data from the Internet. The term "web scraping" generally refers to an automated operation. Some websites dislike it when automated scrapers collect their data, while others do not.If you scrape a page responsibly for educational reasons, you should have no concerns. Still, before embarking on a large-scale project, conduct your own investigation and ensure that you are not in violation of any Terms of Service.
