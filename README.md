@@ -1,5 +1,6 @@
 # Web_scraping
-![image](https://user-images.githubusercontent.com/91350558/208844794-1c0f2ff3-0a2a-4677-a839-a19eee318f85.png)
+
+<img src="https://user-images.githubusercontent.com/91350558/208844794-1c0f2ff3-0a2a-4677-a839-a19eee318f85.png" width=250% height=250%>
 
 #### Scrape the Google Play Store app and the Android Central forum for discussions on specific apps.
 
